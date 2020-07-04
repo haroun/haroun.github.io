@@ -1,9 +1,9 @@
 # Harouna Traoré
 
-*   [![npm][npm-logo]](https://www.npmjs.com/~haroun)
-*   [![github][github-logo]](https://github.com/haroun)
-*   [![medium][medium-logo]](https://medium.com/@harouna)
-*   [![instagram][instagram-logo]](https://www.instagram.com/9rupee/)
+*   [![npm][npm-logo]](https://www.npmjs.com/~haroun "npm/haroun")
+*   [![github][github-logo]](https://github.com/haroun "github/haroun")
+*   [![medium][medium-logo]](https://medium.com/@harouna "medium/harouna")
+*   [![instagram][instagram-logo]](https://www.instagram.com/9rupee/ "instagram/9rupee")
 
 [npm-logo]: assets/logos/n.svg
 [github-logo]: assets/logos/GitHub-Mark-120px-plus.png
